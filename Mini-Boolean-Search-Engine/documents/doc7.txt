@@ -1,0 +1,2 @@
+The Internet of Things (IoT) connects physical devices using sensors and networks.
+AI and Machine Learning improve IoT systems by enabling intelligent automation.

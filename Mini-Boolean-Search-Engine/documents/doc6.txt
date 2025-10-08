@@ -1,0 +1,2 @@
+Database Management Systems (DBMS) help in organizing and managing large volumes of data efficiently.
+SQL is the most commonly used language for querying and managing databases.

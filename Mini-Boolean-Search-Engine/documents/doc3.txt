@@ -1,0 +1,2 @@
+Data Science involves collecting, processing, and analyzing data to extract useful insights.
+Machine Learning is an important part of Data Science, enabling predictive analysis.

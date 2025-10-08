@@ -1,0 +1,2 @@
+Python is a powerful language widely used in AI, Data Science, and Machine Learning projects.
+Its simple syntax and vast libraries make it ideal for developing intelligent applications.

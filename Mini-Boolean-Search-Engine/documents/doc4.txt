@@ -1,0 +1,2 @@
+Web Development uses technologies such as HTML, CSS, and JavaScript to build interactive websites.
+Full Stack Developers work on both front-end and back-end development.
